@@ -107,7 +107,6 @@ submission.to_csv("submission.csv", index=False)
 | 1  | 0                  |
 | 2  | 1                  |
 
----
 
 ## 📊 Notes
 
@@ -115,7 +114,6 @@ submission.to_csv("submission.csv", index=False)
 * `predict()` is preferred when only **class labels** are required.
 * Threshold can be tuned based on recall/precision needs.
 
----
 
 ## 🚀 Future Improvements
 
@@ -124,11 +122,6 @@ submission.to_csv("submission.csv", index=False)
 * Cross-validation
 * Threshold optimization
 
----
 
 ## 👨‍💻 Author
-
 Developed as part of a machine learning classification workflow.
-* Make it **more beginner-friendly** or **more professional**
-
-Just tell me 👍
